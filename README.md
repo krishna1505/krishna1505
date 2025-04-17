@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Krishna Mohan Yadav
 
-![Krishna's Profile Picture](https://raw.githubusercontent.com/krishna1505/krishna1505/main/images/profile.jpg)
+![Krishna's Profile Picture](https://avatars.githubusercontent.com/u/145401206?v=4)
+
 
 💻 **Full Stack Developer (MERN + TypeScript + Next.js)**  
 🎯 Crafting scalable, high-performance web apps with clean code & modern UI (Tailwind CSS)  
