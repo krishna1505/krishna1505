@@ -1,14 +1,28 @@
-# 👋 Hi, I'm Krishna Mohan Yadav
+# Hello, techies 👋
 
-![Krishna's Profile Picture](https://avatars.githubusercontent.com/u/145401206?v=4)
+I am **Krishna Mohan Yadav**, and I am a **Software Developer**.
 
+I love building applications & discussing new product ideas.  
+**Ideas + Innovation + Technology + Leadership + Commitment** are my tag words for life.  
+I am passionate about **MERN Stack**, **Java DSA**, **TypeScript**, and **DevOps**.
 
-💻 **Full Stack Developer (MERN + TypeScript + Next.js)**  
-🎯 Crafting scalable, high-performance web apps with clean code & modern UI (Tailwind CSS)  
-🧠 Strong in **Java DSA**, **SQL**, and diving into **Docker** & DevOps  
-🚀 Focused on delivering real-world projects that solve problems  
+💻 **Languages and Tools**  
+- **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
+- **Java** (DSA)  
+- **SQL**  
+- **TypeScript**  
+- **Next.js**  
+- **Tailwind CSS**  
+- **Docker**  
+- **Git**  
+- **GraphQL**  
+- **Redis**
 
-📌 *Open to internships, freelance, and full-time opportunities*
+🔭 **I’m currently working on**  
+- **Hospital Management Website** (Appointment booking, Medicine Donation, Blood Donation, AI Chatbot, etc.)  
+- **Recipe Book** & **Link Shortener** (Projects built using MERN stack)  
 
-[📫 LinkedIn](https://www.linkedin.com/in/krishna-mohan-yadav-52349b27b/) | [🌐 Portfolio](https://krishna1505.github.io/My-Portfolio/)
+👯 Both of these projects are open-sourced, feel free to reach out to me if you have any suggestions or want to collaborate.  
 
+⚡ **My GitHub Stats**  
+![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishna1505&show_icons=true&hide_title=true&count_private=true&theme=radical)
