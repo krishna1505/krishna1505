@@ -9,5 +9,5 @@
 
 📌 *Open to internships, freelance, and full-time opportunities*
 
-[📫 LinkedIn](https://www.linkedin.com/in/krishna-mohan-yadav) | [🌐 Portfolio](#coming-soon)
+[📫 LinkedIn](https://www.linkedin.com/in/krishna-mohan-yadav-52349b27b/) | [🌐 Portfolio](https://krishna1505.github.io/My-Portfolio/)
 
