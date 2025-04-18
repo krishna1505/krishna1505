@@ -1,21 +1,6 @@
-<h1 align="center">
-  <span id="dynamic-text">Hello, good to see you here 👋</span>
-</h1>
-
-<style>
-@keyframes fadeText {
-  0%   { opacity: 1; }
-  20%  { opacity: 0; }
-  40%  { opacity: 1; content: "My name is Krishna Mohan Yadav"; }
-  60%  { opacity: 0; }
-  80%  { opacity: 1; content: "I am a MERN Stack Developer"; }
-  100% { opacity: 0; }
-}
-#dynamic-text {
-  display: inline-block;
-  animation: fadeText 6s infinite;
-}
-</style>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hello,+good+to+see+you+here+👋;My+name+is+Krishna+Mohan+Yadav.;I+am+a+MERN+Stack+Developer." alt="Typing SVG" />
+</p>
 
 ---
 
