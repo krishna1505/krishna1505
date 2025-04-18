@@ -7,44 +7,54 @@
 
 ## 👨‍💻 About Me
 
-- 💡 I’m a passionate **MERN Stack Developer** who loves building web apps that make life easier
-- 🚀 Currently working on Full Stack Projects + DSA + DevOps + Machine Learning
-- 📚 Always curious to learn something new and improve my skills
-- 🧠 Exploring AI, Prompt Engineering & Cloud technologies
-- 🎯 Goal: Become a **Top-Tier Software Engineer**
+- 💡 I’m a passionate **Full Stack Developer** with MERN at core
+- 🧠 Exploring AI/ML, Prompt Engineering, and DevOps
+- 🚀 Building unique and meaningful projects
+- 🧰 I love working with **Docker, TypeScript, Next.js, Three.js**, and more
+- 📚 Lifelong learner with a growth mindset
+- 🎯 Goal: Crack FAANG and become an impactful software engineer
 
 ---
 
-## 📫 Connect With Me
+## 🔧 Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna%20Mohan%20Yadav-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/krishna-mohan-yadav-2002/)
-[![GitHub](https://img.shields.io/badge/GitHub-Krishna--Yadav-black?style=flat-square&logo=github)](https://github.com/your-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-krishnayadav.dev-purple?style=flat-square&logo=vercel)](https://yourportfolio.com)
+### 💻 Languages
+`JavaScript` • `TypeScript` • `Python` • `Java`
 
----
+### 🌐 Frontend
+`React.js` • `Next.js` • `Tailwind CSS` • `Bootstrap` • `ShadCN` • `Three.js`
 
-## 🚀 Languages and Tools
+### 🔗 Backend
+`Node.js` • `Express.js` • `MongoDB` • `REST API` • `GRAPH QL`
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+### 🐳 DevOps & Tools
+`Docker` • `Git` • `GitHub` • `VS Code`  • `IntelliJ IDEA`
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KrishnaMohanYadav&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaMohanYadav&theme=radical" width="48%" />
 </p>
+
+---
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna%20Mohan%20Yadav-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/krishna-mohan-yadav-2002/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-KrishnaMohanYadav-black?style=flat-square&logo=github)](https://github.com/KrishnaMohanYadav)
+
+---
+
+## 🔥 Currently Working On
+
+- ✨ Final year project: Hospital Management System with AI-based features
+- 📦 Building reusable components with `shadcn/ui`
+- 📹 YouTube tutorials on Python projects & dev tips
+- 🧠 Mastering DSA with Java (Leetcode 🔥)
 
 ---
 
