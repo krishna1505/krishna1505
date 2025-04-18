@@ -35,17 +35,18 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishnaMohanYadav&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaMohanYadav&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krishna1505&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna1505&theme=radical" width="48%" />
 </p>
+
 
 ---
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna%20Mohan%20Yadav-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/krishna-mohan-yadav-2002/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna%20Mohan%20Yadav-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/krishna-mohan-yadav-52349b27b/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-KrishnaMohanYadav-black?style=flat-square&logo=github)](https://github.com/KrishnaMohanYadav)
+[![GitHub](https://img.shields.io/badge/GitHub-KrishnaMohanYadav-black?style=flat-square&logo=github)](https://github.com/krishna1505)
 
 ---
 
